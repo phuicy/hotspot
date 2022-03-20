@@ -2,7 +2,7 @@
 title:               Hotpot
 tagline:             'Hotspot'
 description:         'A robotics blog'
-url:                 https://phuicy.github.io/hotspot/
+url:                 https://phuicy.github.io/hotspot
 baseurl:             ''
 paginate:            5
 permalink:           pretty
